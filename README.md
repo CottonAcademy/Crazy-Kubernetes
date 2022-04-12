@@ -20,7 +20,6 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <table>
   <tr>
     <td align="center"><a href="https://github.com/pixiake"><img src="https://avatars.githubusercontent.com/u/22290449?v=4" width="100px;" alt=""/><br /><sub><b>pixiake</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ruiyaoOps"><img src="https://avatars.githubusercontent.com/u/35256376?v=4" width="100px;" alt=""/><br /><sub><b>yaorui</b></sub></a></td>
   </tr>
 </table>
 
