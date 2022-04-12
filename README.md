@@ -17,7 +17,8 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pixiake"><img src="https://avatars0.githubusercontent.com/u/22290449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pixiake</b></sub></a><br /><a href="https://github.com/kubesphere/kubekey/commits?author=pixiake" title="Code">💻</a> <a href="https://github.com/kubesphere/kubekey/commits?author=pixiake" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pixiake"><img src="https://avatars.githubusercontent.com/u/22290449?v=4" width="100px;" alt=""/><br /><sub><b>pixiake</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ruiyaoOps"><img src="https://avatars.githubusercontent.com/u/35256376?v=4" width="100px;" alt=""/><br /><sub><b>yaorui</b></sub></a></td>
   </tr>
 </table>
 
