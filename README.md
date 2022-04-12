@@ -10,6 +10,7 @@
 # Crazy-Kubernetes
 
 ## 第一章
+
 ## Contributors ✨
 
 Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -27,3 +28,4 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
